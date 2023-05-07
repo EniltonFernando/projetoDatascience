@@ -1,19 +1,19 @@
 
 
 def cadastrar_usuario():
-    email =3D input("Digite seu e-mail: ")
-    senha =3D input("Digite sua senha: ")
+    email = input("Digite seu e-mail: ")
+    senha = input("Digite sua senha: ")
 
-    confirmacao_email =3D input("Confirme seu e-mail: ")
-    confirmacao_senha =3D input("Confirme sua senha: ")
+    confirmacao_email = input("Confirme seu e-mail: ")
+    confirmacao_senha = input("Confirme sua senha: ")
 
-    while email !=3D confirmacao_email or senha !=3D confirmacao_senha:
+    while email != confirmacao_email or senha != confirmacao_senha:
         print("As informaçoes nao coincidem. Tente novamente.")
 .")
-        email =3D input("Digite seu e-mail: ")
-        senha =3D input("Digite sua senha: ")
-        confirmacao_email =3D input("Confirme seu e-mail: ")
-        confirmacao_senha =3D input("Confirme sua senha: ")
+        email = input("Digite seu e-mail: ")
+        senha = input("Digite sua senha: ")
+        confirmacao_email = input("Confirme seu e-mail: ")
+        confirmacao_senha = input("Confirme sua senha: ")
 
     print("Usuario cadastrado com sucesso!")
 
