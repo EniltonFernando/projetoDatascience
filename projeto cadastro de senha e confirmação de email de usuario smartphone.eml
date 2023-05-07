@@ -20,8 +20,3 @@ def cadastrar_usuario():
 cadastrar_usuario()
 
 
-firmacao_senha =3D input(&quot;Confirme sua senha: &quot;)<br><br>=C2=A0 =
-=C2=A0 print(&quot;Usu=C3=A1rio cadastrado com sucesso!&quot;)<br><br>cadas=
-trar_usuario()<br></div>
-
---0000000000004df59a05fb0a00e7--
