@@ -15,7 +15,7 @@ def cadastrar_usuario():
         confirmacao_email =3D input("Confirme seu e-mail: ")
         confirmacao_senha =3D input("Confirme sua senha: ")
 
-    print("Usu=C3=A1rio cadastrado com sucesso!")
+    print("Usuario cadastrado com sucesso!")
 
 cadastrar_usuario()
 
