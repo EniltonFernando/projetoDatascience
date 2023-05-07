@@ -1,14 +1,4 @@
-MIME-Version: 1.0
-Date: Sat, 6 May 2023 14:46:54 -0300
-Message-ID: <CAGLRFhVqGm8R4j2RJf7pMU12uccbBxVYDmG2yFqYS5tJROOS_Q@mail.gmail.com>
-Subject: exemplo 2 em codigo em python aula
-From: Fernando Santos <cabala2424@gmail.com>
-To: Fernando Santos <cabala2424@gmail.com>
-Content-Type: multipart/alternative; boundary="0000000000004df59a05fb0a00e7"
 
---0000000000004df59a05fb0a00e7
-Content-Type: text/plain; charset="UTF-8"
-Content-Transfer-Encoding: quoted-printable
 
 def cadastrar_usuario():
     email =3D input("Digite seu e-mail: ")
@@ -29,21 +19,7 @@ def cadastrar_usuario():
 
 cadastrar_usuario()
 
---0000000000004df59a05fb0a00e7
-Content-Type: text/html; charset="UTF-8"
-Content-Transfer-Encoding: quoted-printable
 
-<div dir=3D"ltr">def cadastrar_usuario():<br>=C2=A0 =C2=A0 email =3D input(=
-&quot;Digite seu e-mail: &quot;)<br>=C2=A0 =C2=A0 senha =3D input(&quot;Dig=
-ite sua senha: &quot;)<br><br>=C2=A0 =C2=A0 confirmacao_email =3D input(&qu=
-ot;Confirme seu e-mail: &quot;)<br>=C2=A0 =C2=A0 confirmacao_senha =3D inpu=
-t(&quot;Confirme sua senha: &quot;)<br><br>=C2=A0 =C2=A0 while email !=3D c=
-onfirmacao_email or senha !=3D confirmacao_senha:<br>=C2=A0 =C2=A0 =C2=A0 =
-=C2=A0 print(&quot;As informa=C3=A7=C3=B5es n=C3=A3o coincidem. Tente novam=
-ente.&quot;)<br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 email =3D input(&quot;Digite se=
-u e-mail: &quot;)<br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 senha =3D input(&quot;Digi=
-te sua senha: &quot;)<br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 confirmacao_email =3D =
-input(&quot;Confirme seu e-mail: &quot;)<br>=C2=A0 =C2=A0 =C2=A0 =C2=A0 con=
 firmacao_senha =3D input(&quot;Confirme sua senha: &quot;)<br><br>=C2=A0 =
 =C2=A0 print(&quot;Usu=C3=A1rio cadastrado com sucesso!&quot;)<br><br>cadas=
 trar_usuario()<br></div>
